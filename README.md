@@ -1,4 +1,3 @@
-duet-resources
-==============
+# Help! What am I doing here? I'm confused...
 
-A collection of Cafe Duet resources and publicly contributed wiki to help make learning it suck less.
+You are probably looking for the [wiki](https://github.com/KimBurgess/duet-resources/wiki).
